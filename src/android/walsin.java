@@ -1,4 +1,4 @@
-package cordova-plugin-walsin;
+package cordova.plugin.walsin;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
