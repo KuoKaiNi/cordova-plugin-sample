@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-webcomm",
+  "version": "0.0.1",
+  "description": "A test plugin",
+  "cordova": {
+    "id": "cordova-plugin-walsin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ken",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuoKaiNi/cordova-plugin-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KuoKaiNi/cordova-plugin-sample/issues"
+  },
+  "homepage": "https://github.com/KuoKaiNi/cordova-plugin-sample#readme"
+}
